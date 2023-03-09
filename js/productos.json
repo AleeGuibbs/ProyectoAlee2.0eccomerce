@@ -1,0 +1,182 @@
+[
+    {
+        "id": "Campera-01",
+        "titulo": "Campera 01",
+        "imagen": "./imagenes/Campera/campera.jpg",
+        "categoria": {
+            "nombre": "Campera",
+            "id": "Campera"
+        },
+        "precio": 10500
+    },
+    {
+        "id": "Campera-02",
+        "titulo": "Campera 02",
+        "imagen": "./imagenes/Campera/Campera2.jpg",
+        "categoria": {
+            "nombre": "Campera",
+            "id": "Campera"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "Campera-03",
+        "titulo": "Campera 03",
+        "imagen": "./imagenes/Campera/Campera3.jpg",
+        "categoria": {
+            "nombre": "Campera",
+            "id": "Campera"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "Campera-04",
+        "titulo": "Campera 04",
+        "imagen": "./imagenes/Campera/Campera4.jpg",
+        "categoria": {
+            "nombre": "Campera",
+            "id": "Campera"
+        },
+        "precio": 11000
+    },
+    {
+        "id": "Campera-05",
+        "titulo": "Campera 05",
+        "imagen": "./imagenes/Campera/Campera5.jpg",
+        "categoria": {
+            "nombre": "Capera",
+            "id": "Campera"
+        },
+        "precio": 8500
+    },
+    {
+        "id": "Remera-01",
+        "titulo": "Remera 01",
+        "imagen": "./imagenes/Remeras/Remera1.jpg",
+        "categoria": {
+            "nombre": "Remera",
+            "id": "Remera"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "Remera-02",
+        "titulo": "Camiseta 02",
+        "imagen": "./imagenes/Remeras/Remera2.jpg",
+        "categoria": {
+            "nombre": "Remera",
+            "id": "Remera"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "Remera-03",
+        "titulo": "Remera 03",
+        "imagen": "./imagenes/Remeras/Remera3.jpg",
+        "categoria": {
+            "nombre": "Remera",
+            "id": "Remera"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "Remera-04",
+        "titulo": "Remera 04",
+        "imagen": "./imagenes/Remeras/Remera4.jpg",
+        "categoria": {
+            "nombre": "Remera",
+            "id": "Remera"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "Remera-05",
+        "titulo": "Remera 05",
+        "imagen": "./imagenes/Remeras/Remera5.jpg",
+        "categoria": {
+            "nombre": "Remera",
+            "id": "Remera"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "Remera-06",
+        "titulo": "Remera 06",
+        "imagen": "./imagenes/Remeras/Remera6.jpg",
+        "categoria": {
+            "nombre": "Remera",
+            "id": "Remera"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "Remera-07",
+        "titulo": "Remera 07",
+        "imagen": "./imagenes/Remeras/Remera5.jpg",
+        "categoria": {
+            "nombre": "Remera",
+            "id": "Remera"
+        },
+        "precio": 2800
+    },
+    {
+        "id": "Remera-08",
+        "titulo": "Remera 08",
+        "imagen": "./imagenes/Remeras/Remera8.jpg",
+        "categoria": {
+            "nombre": "Remera",
+            "id": "Remera"
+        },
+        "precio": 3999
+    },
+    {
+        "id": "Pantalon-01",
+        "titulo": "Pantalón 01",
+        "imagen": "./imagenes/Pantalones/Pantalon1.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3599
+    },
+    {
+        "id": "Pantalon-02",
+        "titulo": "Pantalón 02",
+        "imagen": "./imagenes/Pantalones/Pantalon2.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón 03",
+        "imagen": "./imagenes/Pantalones/Pantalon3.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 2950
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón 04",
+        "imagen": "./imagenes/Pantalones/Pantalon4.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3999
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón 05",
+        "imagen": "./imagenes/Pantalones/Pantalon5.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 2550
+    }
+]
